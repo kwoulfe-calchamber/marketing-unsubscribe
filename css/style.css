@@ -22,3 +22,8 @@ h2, h4, p {
     margin-left: 2rem;
     border-radius: 0px;
 }
+
+.btn:hover {
+    color: white;
+    text-decoration: underline;
+}
