@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+}
+
+.row {
+    margin-top: 1em;
+}
+
+hr {
+    height:2px;
+    border-width:0;
+    background-color:#ff8500;
+}
+
+h2, h4, p {
+    padding-left: 2rem;
+}
+
+.btn {
+    background-color: #072a5e;
+    color: white;
+    margin-left: 2rem;
+    border-radius: 0px;
+}
